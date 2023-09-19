@@ -1,2 +1,2 @@
 # traffic-website
-[Demo](https://maruf-ahmed76.github.io/traffic-website/)
+[Demo](https://maruffahmed.github.io/traffic-website)
